@@ -1,0 +1,21 @@
+{
+  "name": "shreyash-group-logistics",
+  "version": "1.0.0",
+  "description": "SG Logistic – Shreyash Group Logistics website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve -l 3000",
+    "start": "serve -l 3000",
+    "build": "echo \"Static site – no build step required.\""
+  },
+  "keywords": [
+    "logistics",
+    "truck-booking",
+    "sg-logistic"
+  ],
+  "author": "Shreyash Group Logistics",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^14.2.6"
+  }
+}
